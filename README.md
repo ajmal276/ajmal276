@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Arun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajmal276&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=arunar1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunar1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ajmal276&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal276&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 **ajmal276/ajmal276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
