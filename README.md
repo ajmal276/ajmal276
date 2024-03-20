@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,Hi I'm Ajmal There !</h1>
+<h1 align="center">Hi 👋,Hi there, I'm Ajmal here !</h1>
 <h3 align="center">A passionate engineering student exploring new technologies</h3>
 
 ![Arun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajmal276&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
