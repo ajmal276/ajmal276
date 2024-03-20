@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Arun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arunar1&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
 
 <!--
 **ajmal276/ajmal276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
