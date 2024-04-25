@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ajmal here !</h1>
 <h3 align="center">A passionate engineering student exploring new technologies</h3>
 
-![Arun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajmal276&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
+![Ajmal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajmal276&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajmal276&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal276&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Reach out to me
+<p align="left">
+<a href="https://github.com/ajmal276" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" alt="rabeehcv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajmal-u/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ajmalu" height="30" width="40" /></a>
+</p>
