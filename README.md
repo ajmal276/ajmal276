@@ -19,6 +19,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🦾Tech Stack ☠️⚙️
+### GitHub Learning
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="display: flex; margin-right: 20px;"> <!-- Adjust margin as needed -->
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/KL642W7B?sharingId=E7A09216D1C18747" target="_blank">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/manage-work-github-projects.svg" alt="Machine Learning by Andrew Ng" width="100"/>
+    </a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/JCUXA2JT?sharingId=E7A09216D1C18747" target="_blank">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/github/contribute-to-an-open-source-project-on-github.svg" width="100"/>
+    </a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/W72VRAVN?sharingId=E7A09216D1C18747" target="_blank">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg" alt="Machine Learning by Andrew Ng" width="100"/>
+    </a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/QJS669KE?sharingId=E7A09216D1C18747" target="_blank">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/github/communicate-using-markdown.svg" width="100"/>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/Ajmal-4107/JC9D7BVT?sharingId=E7A09216D1C18747" target="_blank">
+      <img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" width="100"/>
+    </a>
+  </div>
+
+### MATLAB
+  <div style="display: flex; flex-wrap: wrap;">
+      <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=dfa6a234-0afb-4697-ab5c-1ee0b0658781&" target="_blank">
+      <img src="https://matlabacademy.mathworks.com/images/course/panel_simulink.webp" width="100"/>
+      </a>
+      <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=12574ad9-ec2c-4dc8-b666-a130d519c846&" target="_blank">
+      <img src="https://matlabacademy.mathworks.com/images/course/panel_gettingstarted.webp" width="100"/>
+      </a>
+  </div>
+</div>
+
 ### Reach out to me
 <p align="left">
 <a href="https://github.com/ajmal276" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" alt="ajmalu" height="30" width="40" /></a>
