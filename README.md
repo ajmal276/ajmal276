@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 -->
 ### Reach out to me
 <p align="left">
-<a href="https://github.com/ajmal276" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" alt="rabeehcv" height="30" width="40" /></a>
+<a href="https://github.com/ajmal276" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" alt="ajmalu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ajmal-u/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ajmalu" height="30" width="40" /></a>
 </p>
