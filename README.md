@@ -4,6 +4,7 @@
 ![Ajmal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajmal276&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajmal276&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal276&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://komarev.com/ghpvc/?username=ajmal276)
 
 <!--
 **ajmal276/ajmal276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
       <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=12574ad9-ec2c-4dc8-b666-a130d519c846&" target="_blank"><img src="https://matlabacademy.mathworks.com/images/course/panel_gettingstarted.webp" width="100"/></a>
   </div>
 </div>
+
 
 ### Reach out to me
 <p align="left">
